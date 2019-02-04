@@ -8,3 +8,11 @@ Convert any Image format to .jpg format using python by following these steps in
 4) Edit the extension of the image files you want to delete in the 'endswith()' method.
 5) Run the program.
 6) Congats now you have converted your image files from one format to another!
+
+Note: You may need to install various packages first. You can run the following commands:
+
+```pip install Pillow```
+
+```pip install pathlib```
+
+```pip install image```
