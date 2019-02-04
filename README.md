@@ -1,6 +1,6 @@
 # ImageConverter
 
-Convert any Image format to .jpg format by following these steps in the given order:
+Convert any Image format to .jpg format using python by following these steps in the given order:
 
 1) Specify the path of the directory where the images are stored by editing the PATH in 'pillow.py' file.
 2) That's it, now the image files have been converted we have another choice whether to delete the previous files or not. 
