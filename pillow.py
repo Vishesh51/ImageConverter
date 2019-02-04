@@ -14,7 +14,7 @@ for item in dirs:
 	dir1=os.listdir(path+item)
 	#print dir1"""
 	
-for item in dir1:
+for item in dirs:
 	#print path+item+'\\'+item1
 	if os.path.isfile(path+item):
 		im=Image.open(path+item)
